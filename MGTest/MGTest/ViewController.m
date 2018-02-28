@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"第一次输出打印");
+    
+    NSLog(@"第二次输入");
+    
 }
 
 
