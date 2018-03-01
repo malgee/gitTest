@@ -15,6 +15,7 @@
 		18E6E1792046439B00FE763D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E6E1782046439B00FE763D /* main.m */; };
 		18E6E1832046439C00FE763D /* MGTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E6E1822046439C00FE763D /* MGTestTests.m */; };
 		18E6E18E2046439C00FE763D /* MGTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E6E18D2046439C00FE763D /* MGTestUITests.m */; };
+		18E6E19D2047E3F400FE763D /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E6E19C2047E3F400FE763D /* test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		18E6E1892046439C00FE763D /* MGTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MGTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E6E18D2046439C00FE763D /* MGTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MGTestUITests.m; sourceTree = "<group>"; };
 		18E6E18F2046439C00FE763D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18E6E19B2047E3F400FE763D /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		18E6E19C2047E3F400FE763D /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				18E6E16A2046439B00FE763D /* AppDelegate.m */,
 				18E6E16C2046439B00FE763D /* ViewController.h */,
 				18E6E16D2046439B00FE763D /* ViewController.m */,
+				18E6E19B2047E3F400FE763D /* test.h */,
+				18E6E19C2047E3F400FE763D /* test.m */,
 				18E6E16F2046439B00FE763D /* Main.storyboard */,
 				18E6E1722046439B00FE763D /* Assets.xcassets */,
 				18E6E1742046439B00FE763D /* LaunchScreen.storyboard */,
@@ -266,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18E6E16E2046439B00FE763D /* ViewController.m in Sources */,
+				18E6E19D2047E3F400FE763D /* test.m in Sources */,
 				18E6E1792046439B00FE763D /* main.m in Sources */,
 				18E6E16B2046439B00FE763D /* AppDelegate.m in Sources */,
 			);
