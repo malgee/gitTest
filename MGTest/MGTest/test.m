@@ -12,7 +12,7 @@
 
 - (void)test
 {
-    
+    NSLog(@"这是maling的测试输出");
 }
 
 @end
