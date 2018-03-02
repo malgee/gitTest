@@ -14,7 +14,7 @@
 {
     NSLog(@"这是maling的测试输出 + malgee添加内容");
     
-    NSLog(@"malgee 新内容输出");
+    NSLog(@"malgee 新内容输出 +++");
 }
 
 @end
