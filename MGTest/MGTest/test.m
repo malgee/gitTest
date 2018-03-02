@@ -10,4 +10,9 @@
 
 @implementation test
 
+- (void)test
+{
+    
+}
+
 @end
