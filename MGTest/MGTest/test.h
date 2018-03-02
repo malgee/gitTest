@@ -10,4 +10,6 @@
 
 @interface test : NSObject
 
+- (void)test;
+
 @end
