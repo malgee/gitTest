@@ -18,6 +18,8 @@
     NSLog(@"malgee 新内容输出 +++");
     
     NSLog(@"malgee 第一次输出");
+    
+    NSLog(@"malgee 第二次输出");
 }
 
 @end
