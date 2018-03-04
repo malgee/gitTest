@@ -21,7 +21,7 @@
     
     NSLog(@"malgee 第二次输出");
     
-    NSLog(@"malgee0302 输出 +++++");
+    NSLog(@"malgee0302 输出 ");
     
 }
 
